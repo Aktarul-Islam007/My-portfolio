@@ -1,2 +1,21 @@
-# My-portfolio
-I’m a Web &amp; WordPress Developer skilled in creating responsive, user-friendly, and modern websites. 🚀 Experienced in HTML, CSS, JavaScript, and WordPress (Elementor, WooCommerce), I focus on delivering clean code and professional designs that help businesses grow online.
+# 🧮 Calculator Project  
+
+A simple **Calculator** built with HTML, CSS, and JavaScript.  
+This project is beginner-friendly and demonstrates the use of basic JavaScript functions to perform arithmetic operations.  
+
+---
+
+## 🚀 Features
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- ✅ Clear / Reset button  
+- 📱 Responsive design for mobile & desktop  
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla JS)** 
